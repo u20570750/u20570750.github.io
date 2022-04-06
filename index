@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script>
+        var __gp_enc_ck_name = "1";
+        var __pan_gp_hostname_data = "connect.up.ac.za";
+        var __pan_gp_protocol_data = "https";
+        var __pan_gp_protocol_host = "https://connect.up.ac.za";
+        var __pan_app_hostname_data = "clickup.up.ac.za";
+        var __pan_app_protocol_data = "https";
+        var __pan_app_port_data = "0";
+        var __pan_advanced_mode = "0";
+        var __pan_n_url_directory = "6";
+        var __pan_cre_engine_ver = "9.0.0";
+        var __pan_site_rules = "";
+        var __pan_custom_app_domain = undefined;
+    </script>
+
+    <script src="https://connect.up.ac.za/global-protect/vpn-js/pan_js_all_225s.js"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        [class*="col-"] {
+            float: left;
+            padding-top: 10px;
+            padding-right: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px;
+        }
+
+        .row::after {
+            content: "";
+            clear: both;
+            display: block;
+        }
+
+        .header {
+            background-color: #43239b;
+            padding: 15px;
+            color: #FFFFFF;
+            border-radius: 0px;
+            border: 1px solid #989898;
+        }
+
+        .footer {
+            background-color: #58acd6;
+            color: #FFFFFF;
+            text-align: center;
+            font-size: 1.2em;
+            padding: 15px;
+            border-radius: 0px;
+            border: 1px solid #989898;
+        }
+
+        .well {
+            background-color: #8293e0;
+            border: 1px solid #989898;
+            border-radius: 5px;
+            padding: 10px;
+        }
+
+        #main {
+            min-height: 500px;
+            background-color: #D1F2EB;
+            padding: 10px;
+            border: 1px solid #989898;
+        }
+
+        /* For mobile phones: */
+        [class*="col-"] {
+            width: 100%;
+        }
+
+        @media only screen and (min-width: 768px) {
+
+            /* For desktop: */
+            .col-1 {
+                width: 8.33%;
+            }
+
+            .col-2 {
+                width: 16.66%;
+            }
+
+            .col-3 {
+                width: 25%;
+            }
+
+            .col-4 {
+                width: 33.33%;
+            }
+
+            .col-5 {
+                width: 41.66%;
+            }
+
+            .col-6 {
+                width: 50%;
+            }
+
+            .col-7 {
+                width: 58.33%;
+            }
+
+            .col-8 {
+                width: 66.66%;
+            }
+
+            .col-9 {
+                width: 75%;
+            }
+
+            .col-10 {
+                width: 83.33%;
+            }
+
+            .col-11 {
+                width: 91.66%;
+            }
+
+            .col-12 {
+                width: 100%;
+            }
+        }
+    </style>
+    <title>index</title>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Kamogelo Mamadi</h1>
+    </div>
+   
+
+    <div class="row" id="main">
+        <div class="col-3">
+            <div class="well">
+                About Me
+                <ul>
+                    <li>Name: Kamogelo</li>
+                    <li>Surname: Mamadi</li>
+                    <li>Age: 20</li>
+                    <li>Degree: BIT</li>
+                    <li>Hobbies: Singing and Hockey.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="well"> Skills
+                C#<br>
+                SQL<br>
+                Excel<br>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Email: u20570750@tuks.co.za</p>
+    </div>
+</body>
+
+</html>
